@@ -6,6 +6,13 @@ bin-release/
 
 # Other files and folders
 .settings/
+.vscode/
+
+# Java files
+.project
+.factorypath
+.classpath
+**/target
 
 # Executables
 *.swf

@@ -48,7 +48,7 @@
             <scope>provided</scope>
         </dependency>
         <dependency>
-            <groupId>org.mineacademy</groupId>
+            <groupId>com.github.kangarko</groupId>
             <artifactId>Foundation</artifactId>
             <version>${foundation.version}</version>
             <scope>compile</scope>
