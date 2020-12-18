@@ -39,5 +39,6 @@ public class TownBoardPrompt extends SimplePrompt {
 		tell(Localization.TownConversables.Board.RESPONSE);
 
 		return null;
+		//hello
 	}
 }
